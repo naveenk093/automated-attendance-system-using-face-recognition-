@@ -6,9 +6,9 @@ from email.mime.text import MIMEText
 from email.utils import COMMASPACE
 from email import encoders
 
-sender_email = 'naveenkumarsn093@gmail.com'
-sender_password = 'yozjbrerhqpohmrb'
-receiver_email = 'satyamrathod57@gmail.com'
+sender_email = 'Sender_email ID'
+sender_password = '16_digit_password'
+receiver_email = 'receiver email id'
 subject = 'CSV file attachment'
 body = 'Please find the attached CSV file.'
 
